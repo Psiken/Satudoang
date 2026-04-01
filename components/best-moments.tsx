@@ -74,7 +74,7 @@ export default function BestMoments() {
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            🌈 Best Moments So Far
+            🌈 Best Moments
           </h2>
           <p className="text-lg text-foreground/70">
             Hal-hal terbaik yang membuat hari kami bersama dirimu istimewa
@@ -122,7 +122,7 @@ export default function BestMoments() {
         <div className="mt-20 text-center">
           <div className="inline-block bg-primary/10 border border-primary/20 rounded-full px-8 py-4">
             <p className="text-lg font-semibold text-foreground">
-              Terima kasih telah menjadi bagian dari hidup kami 💜
+              Terima kasih telah menjadi bagian dari hidup aku
             </p>
           </div>
         </div>
