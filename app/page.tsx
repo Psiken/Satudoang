@@ -1,7 +1,7 @@
 import BirthdayGreeting from '@/components/birthday-greeting'
 import BestWishes from '@/components/best-wishes'
 import PhotoGallery from '@/components/photo-gallery'
-import BestMoments from '@/components/best-moments'
+// import BestMoments from '@/components/best-moments'
 import MusicPlayer from '@/components/music-player'
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
       <BirthdayGreeting />
       <BestWishes />
       <PhotoGallery />
-      <BestMoments />
+      {/* <BestMoments /> */}
       <MusicPlayer />
 
       {/* Footer */}
